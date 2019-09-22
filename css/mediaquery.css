@@ -1,0 +1,32 @@
+@media screen and (max-width:768px){
+    #lineHr{
+        margin-left: 0%;
+    }
+    .mainContactUs{
+        padding-top: 21% !important;
+        background-size: cover !important;
+    }
+    .close1{
+        display: none!important;
+    }
+    .crimg{
+        display: none !important;
+    }
+         .cbox{position: absolute !important;
+            left: 9% !important;
+             padding-top: 30% !important;
+
+         }
+         .carousel-control-next-icon,
+         .carousel-control-prev-icon{
+            display:none!important;
+          }
+          .carousel{
+              height: 70vh!important;
+          }
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
